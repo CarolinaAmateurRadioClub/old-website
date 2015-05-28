@@ -1,0 +1,115 @@
+<!doctype html>
+
+<html>
+<head>
+
+<style type="text/css">
+.slider {
+	width:800px;
+	height:300px;
+	overflow:hidden;
+	margin:30px auto;
+	background-image:url(images/loader.gif);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.shadow {
+   background-image:url(images/1.jpg);
+   background-repeat:no-repeat;
+   background-position:top;
+   width:864px;
+   height:144px;
+   margin:-60px auto;
+}
+.slider img{
+	width:800px;
+	height:300px;
+	display:none;
+}
+
+</style>
+
+
+
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Carolina Amatuer Radio Club</title>
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css" media="screen">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+body {
+	background-image: url(../images/body-bg.png);
+}
+</style>
+</head>
+
+<body onLoad="Slider();">
+
+<div id="wrapper">
+ <div id="banner">
+   
+   <div id="logo">
+   <img src="../images/top.jpg">
+   </div>
+   
+   <div id="media">
+   Guest book
+   </div>
+   
+</div>
+
+ <div id="nav">
+     <ul> 
+         <li><a href="../index.html">Home</a></li>
+         <li><a href="../events.html">Events</a></li>
+         <li><a href="../pictures.html">Pictures</a></li>
+         <li><a href="../about.html">About Us</a></li>
+         <li><a href="../membership.html">Membership</a></li>
+         <li><a href="../contact.html">Contact Us</a></li>
+    </ul> 
+     
+ </div>
+ 
+ <div class="slide">
+ 
+   <img id="1" src="../images/banner/b1.jpg">
+
+   
+ </div>
+
+ <div id="main">
+        <h1>Welcome to the Carolina Amateur Radio Club Site</h1>
+        <p>It is the intent of this club to establish an Amateur Radio communication system which will enhance the capability of radio amateurs to provide communications in the public interest, further the technical capabilities of the members, and interest and entice non amateurs into the ranks of amateur radio operators.</p>
+
+ </div>
+ <div id="cal">
+ 
+ 
+ <!-- TemplateBeginEditable name="Content" -->
+ 
+ 
+ 
+ <iframe src="https://www.google.com/calendar/embed?src=carolinaamateurradioclub%40gmail.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+ 
+ 
+ 
+ <!-- TemplateEndEditable -->
+ 
+ 
+ 
+ </div>
+ 
+ <div id-"rightside">
+ 
+ </div>
+
+ <div id="footer">
+   <p>&copy;2014 Carolina Amateur Radio Club. All rights reserved. </p>
+ </div>
+ 
+</div>
+
+</body>
+</html>
